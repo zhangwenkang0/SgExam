@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/css/admin_login.css=GBK
+encoding//WebContent/js/bootstrap.min.js=gbk
+encoding//WebContent/js/check.js=gbk
+encoding//WebContent/js/login.js=gbk
+encoding//WebContent/js/news.js=gbk
+encoding//WebContent/jsp/login_footer.jsp=UTF-8
+encoding//WebContent/jsp/test/test_paper.jsp=gbk
+encoding//WebContent/jsp/top.jsp=GBK
+encoding//src/edu/numberone/studystar/jdbc=UTF-8
+encoding//src/edu/numberone/studystar/servlet/PaperManageServlet.java=gbk
+encoding//src/edu/numberone/studystar/servlet/StudentAndTeacherAdminLoginServlet.java=UTF-8
+encoding//src/edu/numberone/studystar/utils/QueryMap.java=UTF-8
