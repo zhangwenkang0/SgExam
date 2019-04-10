@@ -4,3 +4,8 @@
 本系统录入试题为手工录入。
 
 数据库位于/sql文件夹
+
+
+这是我的公众号,可以关注一起学习哈~
+
+![java从心](http://upload-images.jianshu.io/upload_images/13046507-2a035833bb679361?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
